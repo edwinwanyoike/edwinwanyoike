@@ -1,29 +1,23 @@
-# 👋 Hi, I'm Edwin Wanyoike
+# 👋 Hi, I'm Edwin Ngigi Wanyoike
 
-> **Simplicity in complexity.** > I am a developer focused on breaking down complex problems into clean, functional code.
+> **Creativity Beyond Experience.** 
+> I am an IT Systems Professional and Junior Full-Stack Software Engineer focused on breaking down complex problems into clean, functional code.
 
 ---
 
 ### 🚀 My Journey
-I'm currently a beginner on GitHub, building a solid foundation in software development and exploring how to create impactful tools.
-
-- 🌱 **Currently learning:** [e.g., Python / JavaScript / HTML & CSS]
-- 🔭 **Working on:** [e.g., Personal portfolio / Small automation scripts]
-- ⚡ **Goal:** To transition from learning syntax to building scalable solutions.
+I am currently a final-year Information Technology student at Kabarak University and an IT Support Specialist at Computer Pride Limited. I am actively building my expertise in full-stack web architecture, enterprise-grade networking, and system administration. My current focus involves developing scalable system solutions, such as my marketplace platform "Farmers Market Place" and my professional document generation tool "CV Maker." My ultimate goal is to transition into a full-time role immediately after graduation where I can apply both my networking knowledge and software engineering skills. 
 
 ### 🛠️ Technical Toolkit
-* **Languages:** [List 1 or 2 you know, e.g., Python, C++]
-* **Tools:** Git, GitHub, VS Code
-* **Interested in:** [e.g., Web Development / Data Science / Open Source]
+* **Software Development:** Rust (Axum), React (Vite), JavaScript, Python, and the MERN ecosystem.
+* **Systems & Networking:** Cisco hardware basics, MikroTik dual-ISP load balancing, and network troubleshooting.
+* **Environment & Tools:** Customized Ubuntu and Fedora Linux environments, Bash shell, Warp terminal, and Git.
+* **Integrations:** M-PESA Daraja API for digital commerce solutions.
 
 ---
 
 ### 📊 GitHub Activity
-![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwinWanyoike&show_icons=true&theme=radical)
-
-### 📫 Let's Connect
-* **LinkedIn:** [Link to your profile]
-* **Email:** [Your email]
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangscorp&show_icons=true&theme=radical)
 
 ---
 *“The expert in anything was once a beginner.”*
